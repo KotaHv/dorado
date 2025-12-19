@@ -1,12 +1,12 @@
 {
     "homepage": "https://prefix.dev/",
     "description": "Package management made easy",
-    "version": "0.62.0",
+    "version": "0.62.1",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/prefix-dev/pixi/releases/download/v0.62.0/pixi-x86_64-pc-windows-msvc.zip",
-            "hash": "133b5984113705ee8a2553fff54055bbeaffe2607b12154c84a6bd1a1d64a1fc"
+            "url": "https://github.com/prefix-dev/pixi/releases/download/v0.62.1/pixi-x86_64-pc-windows-msvc.zip",
+            "hash": "5f782c55a5700bd30ea97920b853fa43d9f14bf8a3f5656c8044fb80a3f44977"
         }
     },
     "installer": {
